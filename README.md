@@ -6,7 +6,6 @@ It's an app that gives random advices.
 
 - [Technologies](#technologies)
 - [Live](#live)
-- [Up next](#up-next)
 - [Authors](#authors)
 
 ### Technologies
