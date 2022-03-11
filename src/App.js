@@ -1,6 +1,6 @@
 import { Component } from "react";
 import axios from "axios";
-import "./app.scss";
+import "./App.scss";
 import dice from "./images/dice.svg";
 
 class App extends Component {
