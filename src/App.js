@@ -21,7 +21,8 @@ class App extends Component {
         });
       })
       .catch((err) => {
-        console.log("getting error");
+        console.log(err);
+        alert("Error trying to fetch the API");
       });
   };
 
