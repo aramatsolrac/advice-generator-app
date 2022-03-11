@@ -1,5 +1,5 @@
 body {
-  background-color: #4D194D;
+  background-color: #4d194d;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,7 +35,7 @@ body {
 }
 .box__button:hover {
   -webkit-animation: spin 2s infinite;
-          animation: spin 2s infinite;
+  animation: spin 2s infinite;
 }
 @-webkit-keyframes spin {
   50% {
@@ -49,4 +49,4 @@ body {
 }
 .box__button:active {
   transform: scale(2);
-}/*# sourceMappingURL=app.css.map */
+} /*# sourceMappingURL=app.css.map */
