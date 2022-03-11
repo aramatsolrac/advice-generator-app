@@ -1,7 +1,7 @@
 import { Component } from "react";
 import axios from "axios";
 import "./app.scss";
-import dice from './images/dive.svg';
+import dice from "./images/dice.svg";
 
 class App extends Component {
   state = {
@@ -34,11 +34,11 @@ class App extends Component {
           </div>
         </div>
         <button
-              className="box__button"
-              type="button"
-              onClick={this.getQuotesData}
-            >
-             <img className="box__button-img" src={dice} alt="dice img"></img> 
+          className="box__button"
+          type="button"
+          onClick={this.getQuotesData}
+        >
+          <img className="box__button-img" src={dice} alt="dice img"></img>
         </button>
       </div>
     );
