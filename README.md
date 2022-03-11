@@ -21,7 +21,7 @@ It's an app that gives random advices.
 
 ### Live
 
-- <a href="" target="_blank">Advice Generator App</a>
+- <a href="https://advice-generator-project.herokuapp.com/" target="_blank">Advice Generator App</a>
 
 ### Authors
 
